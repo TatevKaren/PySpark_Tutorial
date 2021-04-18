@@ -6,7 +6,7 @@
   </a>
 </p>
 <br>
-For this article we have used Stroke Prediction Dataset publicly available on <a href = "https://www.kaggle.com/fedesoriano/stroke-prediction-dataset"> Kaggle </a>.<br>
+For this article we have used Stroke Prediction Dataset publicly available on <a href = "https://www.kaggle.com/fedesoriano/stroke-prediction-dataset"> Kaggle </a>.<br><br>
 Following topics are included in this tutorial:
 
 - Loading Data
